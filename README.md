@@ -2,6 +2,6 @@
 
 This Crew AI test suggests business ideas to several agents with different colourful personas, and gets their output. You can make them as volatile or disagreeing as possible (which I would recommend as AI tends to be too polite by default, an interesting defect!). 
 
-If you'd like to collaborate on any ideas you have, please let me know.
+If you'd like to collaborate on any ideas you have, please let me know at my LinkedIn or email available from my profile.
 
 https://www.crewai.com/
